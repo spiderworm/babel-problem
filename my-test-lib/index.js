@@ -1,4 +1,4 @@
-import "@babel/register";
+
 
 export default class MyTestLib {
   #something = 'hi';

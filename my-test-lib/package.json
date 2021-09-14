@@ -10,7 +10,5 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babel/preset-env": "^7.15.6",
-    "@babel/register": "^7.15.3"
   }
 }
